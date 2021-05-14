@@ -1,0 +1,28 @@
+!
+CRR/NZMariner
+    This is an official RNC produced by the New Zealand Hydrographic Authority.
+    Refer to Copyright and Important Notice Information in README file.
+CHT/NA=Chatham Islands to Pacific - Antarctic Rise,NU=NZ14612
+CHF/Harbour Insets
+CED/SE=19990401,RE=1,ED=04/01/1999
+NTM/NE=,ND=
+VER/3.07
+CHK/1,NZ1461201
+ORG/NZ
+MFR/NZ
+K01/NA=Chatham Islands to Pacific - Antarctic Rise,NU=NZ1461201,TY=Base
+    FN=NZ1461201.KAP
+N000000010001/RT=N,KN=NZ1461201,CA=Buoyage/Beacons/Lights,DE=Lights/Beacons
+    P1=6435,197,P2=6435,86,P3=7031,86,P4=7031,197
+N000000010002/RT=N,KN=NZ1461201,CA=Depths,DE=Shoal Depths,P1=7031,177
+    P2=7031,86,P3=7629,86,P4=7629,177
+N000000010003/RT=N,KN=NZ1461201,CA=Miscellaneous,DE=Miscellaneous,P1=9224,294
+    P2=9224,32,P3=9852,32,P4=9852,294
+N000000010004/RT=N,KN=NZ1461201,CA=Miscellaneous,DE=Miscellaneous,P1=3353,297
+    P2=3353,41,P3=6236,41,P4=6236,297
+N000000010005/RT=N,KN=NZ1461201,CA=Miscellaneous,DE=Miscellaneous,P1=6435,299
+    P2=6435,197,P3=7031,197,P4=7031,299
+N000000010006/RT=N,KN=NZ1461201,CA=Depths,DE=Depths,P1=7031,298,P2=7031,177
+    P3=7629,177,P4=7629,298
+N000000010007/RT=N,KN=NZ1461201,CA=Magnetic Variation,DE=Magnetic Variation
+    P1=7629,294,P2=7629,119,P3=8235,119,P4=8235,294

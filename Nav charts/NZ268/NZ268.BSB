@@ -1,0 +1,26 @@
+!
+CRR/NZMariner
+    This is an official RNC produced by the New Zealand Hydrographic Authority.
+    Refer to Copyright and Important Notice Information in README file.
+CHT/NA=Chatham Islands,NU=NZ268
+CHF/Harbour Insets
+CED/SE=20180601,RE=1,ED=06/01/2018
+NTM/NE=0,ND=07/02/2018
+VER/3.07
+CHK/1,NZ26801
+ORG/NZ
+MFR/NZ
+K01/NA=Chatham Islands,NU=NZ26801,TY=Base,FN=NZ26801.KAP
+N000000010001/RT=N,KN=NZ26801,CA=Vertical Datums,DE=Tidal Levels,P1=1480,6578
+    P2=1480,6355,P3=2541,6355,P4=2541,6578
+N000000010002/RT=N,KN=NZ26801,CA=Tidal Streams/Currents
+    DE=Tidal Streams Table Key,P1=1734,6346,P2=1734,5945,P3=2016,5945
+    P4=2016,6346
+N000000010003/RT=N,KN=NZ26801,CA=Tidal Streams/Currents
+    DE=Tidal Streams Station A,P1=2024,6346,P2=2024,5946,P3=2279,5946
+    P4=2279,6346
+N000000010004/RT=N,KN=NZ26801,CA=Tidal Streams/Currents
+    DE=Tidal Streams Reference Port,P1=1677,5938,P2=1677,5898,P3=2343,5898
+    P4=2343,5938
+N000000010005/RT=N,KN=NZ26801,CA=Miscellaneous,DE=Miscellaneous,P1=8673,184
+    P2=8673,18,P3=10180,18,P4=10180,184

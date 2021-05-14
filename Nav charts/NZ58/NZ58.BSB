@@ -1,0 +1,33 @@
+!
+CRR/NZMariner
+    This is an official RNC produced by the New Zealand Hydrographic Authority.
+    Refer to Copyright and Important Notice Information in README file.
+CHT/NA=Castlepoint to Cape Palliser / Matakitakiakupe,NU=NZ58
+CHF/Harbour Insets
+CED/SE=20170301,RE=1,ED=03/01/2017
+NTM/NE=2019044,ND=03/28/2019
+VER/3.07
+CHK/1,NZ5801
+ORG/NZ
+MFR/NZ
+K01/NA=Castlepoint to Cape Palliser / Matakitakiakupe,NU=NZ5801,TY=Base
+    FN=NZ5801.KAP
+N000000010001/RT=N,KN=NZ5801,CA=Vertical Datums,DE=Tidal Levels,P1=716,2644
+    P2=716,2371,P3=1632,2371,P4=1632,2644
+N000000010002/RT=N,KN=NZ5801,CA=Sources,DE=Source Diagram,P1=9255,6793
+    P2=9255,6081,P3=10088,6081,P4=10088,6793
+N000000010003/RT=N,KN=NZ5801,CA=Prohibitions and Restrictions,DE=Regulations
+    P1=899,2346,P2=899,2190,P3=1423,2190,P4=1423,2346
+N000000010004/RT=N,KN=NZ5801,CA=Sources,DE=Unsurveyed Areas,P1=899,2190
+    P2=899,2100,P3=1419,2100,P4=1419,2190
+N000000010005/RT=N,KN=NZ5801,CA=Positions
+    DE=Horizontal Datum/Système Géodesique,P1=899,2099,P2=899,1908
+    P3=1418,1908,P4=1418,2099
+N000000010006/RT=N,KN=NZ5801,CA=Sources,DE=Sources,P1=772,1898,P2=772,1765
+    P3=1539,1765,P4=1539,1898
+N000000010007/RT=N,KN=NZ5801,CA=Miscellaneous,DE=Miscellaneous,P1=8709,245
+    P2=8709,91,P3=10207,91,P4=10207,245
+N000000010008/RT=N,KN=NZ5801,CA=Buoyage/Beacons/Lights,DE=IALA Region
+    P1=775,1664,P2=775,1595,P3=1536,1595,P4=1536,1664
+N000000010009/RT=N,KN=NZ5801,CA=Vertical Datums,DE=Vertical Datums,P1=775,1595
+    P2=775,1380,P3=1540,1380,P4=1540,1595
